@@ -1,2 +1,0 @@
-# kmla_apush
-apush
