@@ -11,7 +11,7 @@ The legacies of World War I made recovery difficult in two respects
 * Britain’s **central bank** was in no position to resume its traditional role in managing the international financial system.
 *  Second, the war disrupted the international **gold standard**
 
-### Herbert Hoover
+#### Herbert Hoover
 
 President Hoover believed that
 
@@ -20,7 +20,7 @@ President Hoover believed that
 
 and adhered to **gold standard**
 
-### Rising Discontent
+#### Rising Discontent
 
 the American vocabulary now included **Hoovervilles**:  (shantytowns where people lived in packing crates)
 
@@ -32,9 +32,9 @@ Hoover called out regular army troops under the command of **General Douglas Mac
 
 ![Bonus Army](https://upload.wikimedia.org/wikipedia/commons/0/0e/Bonus_marchers_05510_2004_001_a.gif)
 
-## Rising Discontent
+### Rising Discontent
 
-### The 1932 Election
+#### The 1932 Election
 
 **Roosevelt** won the election 
 
@@ -48,7 +48,7 @@ The ideological differences between Herbert Hoover and Franklin Roosevelt were n
 
 Both believed in a balanced government budget and extolled the values of hard work, cooperation, and sacrifice. But Roosevelt’s personal charm, political savvy, and willingness to experiment made him far more effective and more popular than Hoover
 
-### Roosevelt and the First Hundred Days 
+#### Roosevelt and the First Hundred Days 
 
 Congress enacted fifteen major bills that focused primarily on **four problems**: *banking failures, agricultural overproduction, the business slump, and soaring unemployment*. 
 
@@ -94,7 +94,7 @@ Congress enacted fifteen major bills that focused primarily on **four problems**
 
   
 
-### The New Deal Under Attack
+#### The New Deal Under Attack
 
  Roosevelt turned his attention to the reform of Wall Street
 
@@ -128,7 +128,7 @@ As attacks on the New Deal increased, Roosevelt and his advisors moved political
 
 
 
-### The Welfare State Comes into Being
+#### The Welfare State Comes into Being
 
 The Revenue Act symbolized the administration’s new outlook.
 
@@ -154,7 +154,7 @@ Unlike the First New Deal[^3], the Second New Deal emphasized **social justice a
 
   preserve individual liberty, *government must assist the needy and guarantee the basic welfare of citizens*
 
-### From Reform to Stalemate
+#### From Reform to Stalemate
 
 * **The 1936 Election** 
 
@@ -170,7 +170,7 @@ Unlike the First New Deal[^3], the Second New Deal emphasized **social justice a
 
   ![](https://w.namu.la/s/a0e022817280742854d0ce7b1189e66443b9033f4f0b795c15ae8b803a2a7cada2141497a26bfafc661de064ebf5a78c69c9d894db7e393606d2128f5ac3a361610679137592a2f1c022749271916e15b739c198d568a04de7435c24d4c16d45)
 
-* **Court Battle and Economic Recession**
+* Court Battle and Economic Recession
 
   - Supreme Court
 
@@ -194,7 +194,7 @@ Whatever its limits, the New Deal had a tremendous impact
 
  Its ideology of social-welfare liberalism fundamentally altered Americans’ relationship to their government and provided assistance to a wide range of ordinary people: the unemployed, the elderly, workers, and the poor
 
-### A People's Democracy
+#### A People's Democracy
 
 Democratic aspirations that the New Deal had awakened
 
