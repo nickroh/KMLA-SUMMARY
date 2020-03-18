@@ -245,6 +245,27 @@ Democratic aspirations that the New Deal had awakened
 
   Few Chinese benefited from the New Deal. Until the repeal of the *Exclusion Act in 1943*[^10], Chinese immigrants were classified as “aliens ineligible for citizenship” and therefore were excluded from most federal programs
 
+### Reshaping the Environment
+
+natural resources was a dominant theme of the New Deal, and the shaping of the landscape was among its most visible legacies
+
+Under Roosevelt, the federal government both responded to environmental crises and 
+reshaped the use of natural resources, especially water, in the United States
+
+* **The Dust Bowl**
+
+  Among the most hard-pressed citizens during the depression were farmers fleeing the “**dust bowl**” of the Great Plains
+
+* **Tennessee Valley Authority** 
+
+  The most extensive New Deal environmental undertaking was the **Tennessee Valley Authority (TVA)**
+
+  ![](https://lh3.googleusercontent.com/proxy/fBoW_Sm8UXsUf22R23tJ6zGKT23KP0deGtgSYUj8HmWncHAAVpW3eUgHbQDvcV1PzIvoDltns8EpVpgPal4VFNuDVNJpULsLAOc7y2Bf5Do)
+
+  Funded by Congress in 1933, the TVA integrated flood control, reforestation, electricity generation, and agricultural and industrial development
+
+  The TVA was an integral part of the Roosevelt administration’s effort to keep farmers on the land by enhancing the quality of rural life. The Rural Electrification Administration (REA)
+
 
 
 ------
