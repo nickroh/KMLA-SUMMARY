@@ -1,4 +1,4 @@
-<details><summary>개발 환경 구축하기</summary>
+<details><summary>APUSH summary</summary>
     <div>
         <p>
             <li><a href="docs/23.md"> chp23 </a></li>
