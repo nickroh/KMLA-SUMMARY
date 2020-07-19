@@ -11,7 +11,8 @@
             <li><a href="docs/24.html"> chp24 </a></li>
             <li><a href="docs/25.html"> chp25 </a></li>
             <li><a href="docs/26.html"> chp26 </a></li>
-
+		</p>
+	</div>
 </details>
 
 <details><summary>Korean History summary</summary>
